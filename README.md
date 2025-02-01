@@ -8,7 +8,6 @@ This project goes beyond just running SQL queries—it's a **data-driven, busine
 The dataset consists of multiple tables related to **sales, customers, orders, products, and payments**, providing a **comprehensive view of e-commerce operations**. The project focuses on **data analysis, transformation, and optimization**, enabling businesses to **enhance decision-making, optimize inventory, and drive revenue growth**.  
 
 ## Business Impact
-The SQL queries in this project address key business challenges such as:
 - **Sales Performance Analysis**: Identifying top-selling products and revenue trends.
 - **Customer Insights**: Understanding customer purchasing behavior and segmentation.
 - **Order & Shipping Analysis**: Tracking order fulfillment efficiency and return rates.
